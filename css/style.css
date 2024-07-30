@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+.main{
+    height:100vh;
+    width: 100%;
+    display: flex;
+
+}
+.left{
+    height: 100%;
+    width: 50%;
+    background-color: gray;
+}
+.left h1{
+    color: white;
+    font-size: 80px;
+
+}
+.left h2{
+    color: white;
+}
+.left p{
+    color: wheat;
+    display: flex;
+    justify-content: ;
+}
+.right{
+    height:100%;
+    width:50%;
+    background-color: darkslateblue;
+
+   
+}
